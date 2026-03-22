@@ -1,0 +1,7 @@
+{
+    "interval": 1,
+    "coins": {
+        "bitcoin": { "high": 69000, "low": 68000 },
+        "ethereum": { "high": 4000, "low": 3000 }
+    }
+}
